@@ -1,0 +1,3 @@
+83560666, Aaron Ramsdale, Wellington Road Springvale, VIC3165, (6.0, 7.34), ['MF095994, Porche, 2, 1979, 2111.31, RWD', 'CS020194, Lexus, 6, 95, 1794.22, RWD', 'AY971562, Honda, 6, 461, 2307.15, RWD', 'XT160860, Jaguar, 2, 1394, 1412.26, FWD']
+63394444, Richarlison, End Road Ashwood, VIC3442, (9.01, 17.11), ['SK521700, BMW, 4, 506, 1298.23, FWD', 'SE608708, Porche, 4, 297, 1587.51, FWD', 'RM810016, Mazda, 7, 1562, 995.25, AWD', 'YX200891, Bentley, 5, 901, 2281.2, AWD']
+11557752, Pepe, Broad Steet Oakleigh, VIC3482, (14.48, 18.45), ['MF316163, Jeep, 4, 1237, 1126.41, RWD', 'VE718752, Mercedes, 5, 1626, 2356.69, AWD', 'LW602546, Ford, 3, 1106, 1998.32, FWD', 'XA872508, MG, 4, 1415, 1764.07, FWD']
