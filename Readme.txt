@@ -1,1 +1,1 @@
-Readme
+This repository contains a collection of my projects developed to date. It includes my work in Data Science, Software Engineering. Each project folder has its own README with details and setup instructions.
